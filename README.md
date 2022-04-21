@@ -1,2 +1,2 @@
 # COP290
-A reposutory of our assignments that we got in our COP290 course.
+A repository of our assignments that we got in our COP290 course.
