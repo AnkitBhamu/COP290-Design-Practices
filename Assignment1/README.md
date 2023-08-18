@@ -6,4 +6,4 @@ In task 2, we aim to improve the efficiency (runtime) of the matrix multiplicati
 1) Libraries such as **mkl** and **OpenBLAS** 2) Multithreading using **pthreads**
 
 In task 3, we aim to stitch together an audio processing library for identifying keywords in an audio 
-sample using functions created in previous tasks. 
+sample using functions created in previous tasks.
